@@ -1,0 +1,65 @@
+.searchbar{
+    background-color: #EEEEEE;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+.navbar{
+    float: left;
+    margin-top: 2px;
+    text-align: center;
+}
+
+a {
+    color: #0000EE;
+}
+
+input[type="text"]{
+    width: 309px;
+    height: 15px;
+}
+
+input[type="email"]{
+    height: 20px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-lightest {
+    background-color: #7EE5DA;
+    width: 37%;
+    height: 76px;
+    vertical-align: inherit;
+}
+
+.bg-light {
+    background-color: #70CCC2;
+    width: 19.4%;
+    margin-left: .1%;
+    margin-right: .1%;
+    height: 76px;
+    font-size: 13px;
+}
+
+
+.bg-dark{
+    background: #62B3AA;
+    width: 43.4%;
+    height: 76px;
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+    margin-top: 3px;
+}
+
+#navbar1 {
+    margin-top: 10px;
+}
